@@ -12,5 +12,6 @@ public class EstateFactory {
             return new GayrimenkulAraba();
         }
         return null;
+
     }
 }
